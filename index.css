@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(198, 230, 241);
+}
+.container {
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  height: 80vh;
+  width: 35vw;
+  position: relative;
+  left: 30%;
+  top: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.image {
+  height: 53%;
+  padding: 5px;
+  border-radius: 10px;
+}
+.text b {
+  font-size: 21px;
+  font-weight: bolder;
+  padding: 11px;
+}
+.text small {
+  color: grey;
+}
+.text {
+  padding: 8px;
+  padding-bottom: 70px;
+}
