@@ -11,9 +11,9 @@ body {
   border: 1px solid white;
   border-radius: 10px;
   height: 80vh;
-  width: 35vw;
+  width: 22vw;
   position: relative;
-  left: 30%;
+  left: 40%;
   top: 90px;
   display: flex;
   flex-direction: column;
@@ -21,9 +21,10 @@ body {
   align-items: center;
 }
 .image {
-  height: 53%;
+  height: 17rem;
   padding: 5px;
   border-radius: 10px;
+  padding-top: 14px;
 }
 .text b {
   font-size: 21px;
